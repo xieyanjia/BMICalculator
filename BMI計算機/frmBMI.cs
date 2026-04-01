@@ -92,8 +92,6 @@ namespace BMI計算機
             }
             strResult = strResultList[resultIndex];
             colorResult = colorList[resultIndex];
-
-
             lblResult.Text = $"{bmi:F2}({strResult})";
             lblResult.BackColor = colorResult;
 
