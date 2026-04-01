@@ -1,5 +1,11 @@
 # BMI計算機
 
-輸入身高和體重可以計算BMI值，並且給出身體狀況
+## 功能介紹
 
-<img width="799" height="475" alt="image" src="https://github.com/user-attachments/assets/a6cebcbb-1c39-4ee0-a55a-2433c656ff5b" />
+- 輸入身高（公分）與體重（公斤）
+- 點擊「計算」按鈕
+- 即可顯示 BMI 數值與對應的健康分類
+- 最後可以記錄每次的身高體重BMI數值與對應的健康分類
+
+<img width="801" height="610" alt="image" src="https://github.com/user-attachments/assets/36a6089d-7216-4dcd-bec4-ffb0a05ded12" />
+
